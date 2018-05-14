@@ -2,7 +2,7 @@
 
 ---
 
-IDK
+IDKnomore
 
 Example [Hugo] website using GitLab Pages.
 
